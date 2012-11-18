@@ -6,8 +6,8 @@ A few things you will need before diving in:
 *   An installation of the JDK, Netbeans, and the FRC Plugins (see below).
 *   An installation of git and a working knowledge of git, as well as a GitHub
     account.
-*   You'll need to know how the CommandBased Robot template works (see WPILib
-    Robot Programming Cookbook).
+*   You'll need to know how the CommandBased Robot template works (see *WPILib
+    Robot Programming Cookbook*).
 *   Be sure to document your code *clearly* by explaining exactly what your code
     does using comments. This is so others can improve and
     debug your code more efficiently.
@@ -134,6 +134,12 @@ Quoted from the *Getting Started with Java for FRC* document
 
         git push origin master
 
+4.  Use the `git fetch` command to update your local project to the most recent
+    version.
+5.  Please also learn more about the `git branch`, `git merge`, `git log`, `git
+    status`, and `git pull` commands (see **Git Basics (and more)** under
+    **Resources**)
+
 
 Resources
 ---------
@@ -154,6 +160,9 @@ Resources
 [GitCasts (url)](http://gitcasts.com/)  
 [Git Magic (courtesy of Standford CS) (url)](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)  
 [Learn.GitHub (url)](http://learn.github.com/p/intro.html)  
+[github:help](https://help.github.com/)  
+[Pro Git](http://git-scm.com/)  
+[More Git Resources!](https://help.github.com/articles/what-are-other-good-resources-for-using-git-or-github)  
 
 
 ### Other ###
