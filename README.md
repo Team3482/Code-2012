@@ -118,27 +118,46 @@ Quoted from the *Getting Started with Java for FRC* document
 1.  You'll want to clone this git respository by moving to the directory where
     you want the project file and executing
 
-        git clone https://github.com/rodrigovalle/FRC-3482-2012.git
+        git clone https://github.com/Team3482/FRC-3482-2012.git
 
 2.  Now you should have a folder named "FRC-3482-2012". This is the Netbeans
-    project which you'll want to open up using -- you guessed it -- Netbeans.
-3.  Change whatever code you'd like, save, and when you're done execute the
-    following to save your changes within the git project:
+    project which you'll want to open up using -- you guessed it -- Netbeans. 
+    Change whatever code you'd like, and save.
+3.  Next, you want to execute the following command to create a new "branch" for
+    yourself.
+    
+        git branch <branch name>
+
+    Be sure to replace `<branch name>` with a name specific to you --
+    perhaps something like `<your name>s-branch`. You only have to do this
+    once.
+
+    You can use the `git branch` command to view all of the other
+    branches available in the project, and an asterisk will be displayed next to
+    the branch that you're currently in. To change branches, run
+
+        git checkout <branch name>
+
+    Make sure you are in the branch that you have just created before moving on
+    to step 4.
+4.  Once you're done making changes, execute the following to save your changes
+    within the git project:
 
         git commit -a -m "<your message>"
     
     Be sure to replace `<your message>`  with a message that details the
     changes you made/features you added.  
+
     Once you're finished, run the following
     to update your changes on GitHub:
 
         git push origin master
 
-4.  Use the `git fetch` command to update your local project to the most recent
+5.  Use the `git fetch` command to update your local project to the most recent
     version.
-5.  Please also learn more about the `git branch`, `git merge`, `git log`, `git
-    status`, and `git pull` commands (see **Git Basics (and more)** under
-    **Resources**)
+6.  Please also learn more about the `git branch`, `git merge`, `git log`, `git
+    status`, `git commit`,  and `git pull` commands
+    (see **Git Basics (and more)** under **Resources**)
 
 
 Resources
