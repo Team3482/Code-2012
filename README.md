@@ -172,6 +172,8 @@ Resources
 [WPILib Javadoc (zip)](http://first.wpi.edu/Images/CMS/First/javadoc.zip)  
 [FIRST Java Forums (url)](http://forums.usfirst.org/forumdisplay.php?f=1264)  
 [Helpful Documents for the 2012 Game (url)](http://firstforge.wpi.edu/sf/docman/do/listDocuments/projects.wpilib/docman.root)  
+[C++/Java Documentation (url)](http://firstforge.wpi.edu/sf/docman/do/listDocuments/projects.wpilib/docman.root.c_and_java_documentation)  
+[WPILib Robot Programming Cookbook (pdf)](http://firstforge.wpi.edu/sf/docman/do/downloadDocument/projects.wpilib/docman.root.c_and_java_documentation/doc1297)  
 
 
 ### Git Basics (and more) ###
@@ -182,9 +184,3 @@ Resources
 [github:help](https://help.github.com/)  
 [Pro Git](http://git-scm.com/)  
 [More Git Resources!](https://help.github.com/articles/what-are-other-good-resources-for-using-git-or-github)  
-
-
-### Other ###
-
-[WPILib Robot Programming Cookbook (courtesy of Team 604) (pdf)](http://604robotics.com/Files/WPI%20CookBook.pdf)  
-
