@@ -15,6 +15,13 @@ A few things you will need before diving in:
 
 ### To Install the JDK and Netbeans ###
 
+<b>NOTES:</b> <br />
+<strong>
+On step 1: Go to http://www.oracle.com/technetwork/java/javase/downloads/index.html instead. <br />
+On step 2: For JDK 6 choose "JDK 6u37 with NetBeans 7.2.1" instead. <br />
+On step 2: For JDK 7 choose "JDK 7u9 + NetBeans" or "JDK 7u9 with NetBeans 7.2.1" instead.<br />
+</strong>
+
 Quoted from the *Getting Started with Java for FRC* document 
 (download available in the Resources section).
 
@@ -114,6 +121,17 @@ Quoted from the *Getting Started with Java for FRC* document
 
 
 ### To Get Started ###
+
+<b>
+If Using GitHub for Windows: http://windows.github.com/help.html<br />
+If Using GitHub for Mac: http://mac.github.com/help.html <br />
+</b>
+   (Remember Git is installed with the GitHub client and it is also integrated with the GitHub client) <br />
+<b>
+If Using Git (Shell) Commands: <br />
+<br />
+</b>
+Setting Up Git With Your GitHub Account: https://help.github.com/articles/set-up-git <br />
 
 1.  You'll want to clone this git respository by moving to the directory where
     you want the project file and executing
