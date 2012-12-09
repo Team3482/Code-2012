@@ -159,9 +159,14 @@ Quoted from the *Getting Started with Java for FRC* document
     status`, `git commit`,  and `git pull` commands
     (see **Git Basics (and more)** under **Resources**)
 
-
 Resources
 ---------
+
+### GitHub Application ###
+
+[GitHub for Windows (url) ] (http://windows.github.com/)  
+[GitHub for Mac (url) ] (http://mac.github.com/)  
+
 
 ### General ###
 
