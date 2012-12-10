@@ -1,5 +1,5 @@
 
-package edu.wpi.first.wpilibj.templates.subsystems;
+package robot.core.subsystems;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 
