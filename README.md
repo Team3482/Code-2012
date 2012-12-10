@@ -169,7 +169,7 @@ Setting Up Git With Your GitHub Account: https://help.github.com/articles/set-up
     Once you're finished, run the following
     to update your changes on GitHub:
 
-        git push origin master
+        git push origin <branch name>
 
 5.  Use the `git fetch` command to update your local project to the most recent
     version.
