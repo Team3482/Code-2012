@@ -1,10 +1,10 @@
-package edu.wpi.first.wpilibj.templates.commands;
+package robot.core.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
-import edu.wpi.first.wpilibj.templates.OI;
-import edu.wpi.first.wpilibj.templates.subsystems.Chassis;
-import edu.wpi.first.wpilibj.templates.subsystems.ExampleSubsystem;
+import robot.core.OI;
+import robot.core.subsystems.Chassis;
+import robot.core.subsystems.ExampleSubsystem;
 
 /**
  * The base for all commands. All atomic commands should subclass CommandBase.

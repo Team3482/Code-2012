@@ -1,5 +1,5 @@
 
-package edu.wpi.first.wpilibj.templates;
+package robot.core;
 
 import edu.wpi.first.wpilibj.Joystick;
 
