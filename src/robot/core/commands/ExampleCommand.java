@@ -1,4 +1,3 @@
-
 package robot.core.commands;
 
 /**
@@ -34,3 +33,4 @@ public class ExampleCommand extends CommandBase {
     protected void interrupted() {
     }
 }
+
